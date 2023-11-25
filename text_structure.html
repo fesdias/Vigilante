@@ -1,0 +1,89 @@
+<style>
+    body {
+        background-color: blue;
+    }
+
+    #overlayText h1 {
+        color: #FFF;
+        font-family: Menlo;
+        font-size: 42px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 25px; /* 59.524% */
+        margin: 0;
+    }
+
+    #overlayText h2 {
+        color: #FFF;
+        font-family: Menlo;
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 25px; /* 100% */
+        margin: 0;
+    }
+
+    #overlayText p {
+        color: #FFF;
+        font-family: Menlo;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 16px; /* 100% */
+    }
+
+    #overlayText #left-container {
+        text-align: left;
+        position: fixed;
+        top: 0;
+        left: 0;
+        padding: 10px; 
+    }
+
+    #overlayText #right-container {
+        text-align: right;
+        position: fixed;
+        top: 0;
+        right: 0;
+        padding: 10px; 
+    }
+
+</style>
+
+<body id = "overlayText">
+    <div id="left-container">
+    <h2>RIO DE JANEIRO - GUANABARA BAY</h1>
+    <p>Precipitation Rate = 2e-05 Kg m-2 s-1<br>
+        Temperature = 301 K<br>
+        Surface Pressure = 101544.84 Pa<br>
+        Wind Speed = 5.35595 m s-1<br>
+        Solar Radiation = 405.92 W m-2</p>
+    </div>
+    <div id="right-container">
+    <h1>2020</h1>
+    <p>Iteration = 0004<br>
+        Seed = 1084439719<br>
+        Model = Stable-Diffusion-V1-5<br>
+        img_str = 0.7<br>
+        cfg_scale = 9</p>
+    </div>
+</body>
+
+<div id="left-container">
+<h2>RIO DE JANEIRO - GUANABARA BAY</h1>
+<p>Precipitation Rate = {pr} Kg m-2 s-1<br>
+    Temperature = {tas} K<br>
+    Surface Pressure = {psl} Pa<br>
+    Wind Speed = {sfcWind} m s-1<br>
+    Solar Radiation = {rldscs} W m-2</p>
+</div>
+<div id="right-container">
+<h1>{date}</h1>
+<p>Iteration = {iteration}<br>
+    Seed = {seed}<br>
+    Model = {model}<br>
+    img_str = {img_str}<br>
+    cfg_scale = {cfg_scale}</p>
+</div>
+
+"<div id=\"left-container\">\n    <h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n    <p>Precipitation Rate = {pr} Kg m-2 s-1<br>\n        Temperature = {tas} K<br>\n        Surface Pressure = {psl} Pa<br>\n        Wind Speed = {sfcWind} m s-1<br>\n        Solar Radiation = {rldscs} W m-2</p>\n    </div>\n    <div id=\"right-container\">\n    <h1>{date}</h1>\n    <p>Iteration = {iteration}<br>\n        Seed = {seed}<br>\n        Model = {model}<br>\n        img_str = {img_str}<br>\n        cfg_scale = {cfg_scale}</p>\n    </div>"

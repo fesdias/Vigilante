@@ -1,0 +1,80 @@
+html {
+  height: 500vh;
+  font-size: 16px;
+}
+  
+body {
+  height: 100vh;
+  background: #000;
+  margin: 0;
+}
+
+canvas {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100vh; 
+  object-fit: cover; 
+  object-position: center;
+}
+
+#overlayText {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+#overlayText h1 {
+  color: #FFF;
+  font-family: Menlo;
+  font-size: 2.618rem;
+  line-height: 1rem;
+  font-style: normal;
+  font-weight: 700;
+  text-align: right;
+  margin: 0;
+}
+
+#overlayText h2 {
+  color: #FFF;
+  font-family: Menlo;
+  font-size: 1.618rem;
+  line-height: 1rem;
+  font-style: normal;
+  font-weight: 700;
+  text-align: left;
+  margin: 0;
+}
+
+#overlayText p {
+  color: #FFF;
+  font-family: Menlo;
+  font-size: 1rem;
+  line-height: 0.618rem;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0;
+}
+
+#overlayText #left-container {
+  text-align: left;
+  left: 0;
+  bottom: 10px;
+  position: fixed;
+  padding-left: 10px;
+}
+
+#overlayText #right-container {
+  text-align: right;
+  right: 0;
+  bottom: 10px;
+  position: fixed;
+  padding-right: 10px;
+}
+
+@media screen and (max-width: 700px) {
+  html{
+    font-size: 11px;
+  }
+}

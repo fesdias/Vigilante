@@ -1,0 +1,1030 @@
+[
+  {
+    "index": 0,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.9e-05 Kg m-2 s-1<br>\nTemperature = 296.14 K<br>\nSurface Pressure = 101555.36 Pa<br>\nWind Speed = 4.54844 m s-1<br>\nSolar Radiation = 366.7 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2015</h1>\n<p>Iteration = 0<br>\nSeed = 3592619073<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 1,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.9e-05 Kg m-2 s-1<br>\nTemperature = 296.14 K<br>\nSurface Pressure = 101555.36 Pa<br>\nWind Speed = 4.54844 m s-1<br>\nSolar Radiation = 366.7 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2015</h1>\n<p>Iteration = 1<br>\nSeed = 672707278<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 2,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.9e-05 Kg m-2 s-1<br>\nTemperature = 296.14 K<br>\nSurface Pressure = 101555.36 Pa<br>\nWind Speed = 4.54844 m s-1<br>\nSolar Radiation = 366.7 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2015</h1>\n<p>Iteration = 2<br>\nSeed = 3603031669<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 3,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.9e-05 Kg m-2 s-1<br>\nTemperature = 296.81 K<br>\nSurface Pressure = 101655.28 Pa<br>\nWind Speed = 4.59474 m s-1<br>\nSolar Radiation = 367.21 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2016</h1>\n<p>Iteration = 3<br>\nSeed = 664076129<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 4,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.9e-05 Kg m-2 s-1<br>\nTemperature = 296.81 K<br>\nSurface Pressure = 101655.28 Pa<br>\nWind Speed = 4.59474 m s-1<br>\nSolar Radiation = 367.21 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2016</h1>\n<p>Iteration = 4<br>\nSeed = 3938538289<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 5,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.9e-05 Kg m-2 s-1<br>\nTemperature = 296.81 K<br>\nSurface Pressure = 101655.28 Pa<br>\nWind Speed = 4.59474 m s-1<br>\nSolar Radiation = 367.21 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2016</h1>\n<p>Iteration = 5<br>\nSeed = 3139394571<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 6,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.3e-05 Kg m-2 s-1<br>\nTemperature = 296.94 K<br>\nSurface Pressure = 101631.27 Pa<br>\nWind Speed = 4.83495 m s-1<br>\nSolar Radiation = 366.8 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2017</h1>\n<p>Iteration = 6<br>\nSeed = 3980582923<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 7,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.3e-05 Kg m-2 s-1<br>\nTemperature = 296.94 K<br>\nSurface Pressure = 101631.27 Pa<br>\nWind Speed = 4.83495 m s-1<br>\nSolar Radiation = 366.8 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2017</h1>\n<p>Iteration = 7<br>\nSeed = 46406183<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 8,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.3e-05 Kg m-2 s-1<br>\nTemperature = 296.94 K<br>\nSurface Pressure = 101631.27 Pa<br>\nWind Speed = 4.83495 m s-1<br>\nSolar Radiation = 366.8 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2017</h1>\n<p>Iteration = 8<br>\nSeed = 3943943673<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 9,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.1e-05 Kg m-2 s-1<br>\nTemperature = 296.7 K<br>\nSurface Pressure = 101607.98 Pa<br>\nWind Speed = 4.72724 m s-1<br>\nSolar Radiation = 370.15 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2018</h1>\n<p>Iteration = 9<br>\nSeed = 1946410756<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 10,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.1e-05 Kg m-2 s-1<br>\nTemperature = 296.7 K<br>\nSurface Pressure = 101607.98 Pa<br>\nWind Speed = 4.72724 m s-1<br>\nSolar Radiation = 370.15 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2018</h1>\n<p>Iteration = 10<br>\nSeed = 418786556<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 11,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.1e-05 Kg m-2 s-1<br>\nTemperature = 296.7 K<br>\nSurface Pressure = 101607.98 Pa<br>\nWind Speed = 4.72724 m s-1<br>\nSolar Radiation = 370.15 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2018</h1>\n<p>Iteration = 11<br>\nSeed = 2044918532<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 12,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.9e-05 Kg m-2 s-1<br>\nTemperature = 296.86 K<br>\nSurface Pressure = 101555.86 Pa<br>\nWind Speed = 4.94942 m s-1<br>\nSolar Radiation = 371.28 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2019</h1>\n<p>Iteration = 12<br>\nSeed = 3106390835<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 13,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.9e-05 Kg m-2 s-1<br>\nTemperature = 296.86 K<br>\nSurface Pressure = 101555.86 Pa<br>\nWind Speed = 4.94942 m s-1<br>\nSolar Radiation = 371.28 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2019</h1>\n<p>Iteration = 13<br>\nSeed = 1050716142<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 14,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.9e-05 Kg m-2 s-1<br>\nTemperature = 296.86 K<br>\nSurface Pressure = 101555.86 Pa<br>\nWind Speed = 4.94942 m s-1<br>\nSolar Radiation = 371.28 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2019</h1>\n<p>Iteration = 14<br>\nSeed = 2778149440<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 15,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 297.14 K<br>\nSurface Pressure = 101648.36 Pa<br>\nWind Speed = 4.87509 m s-1<br>\nSolar Radiation = 366.82 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2020</h1>\n<p>Iteration = 15<br>\nSeed = 3443000869<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 16,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 297.14 K<br>\nSurface Pressure = 101648.36 Pa<br>\nWind Speed = 4.87509 m s-1<br>\nSolar Radiation = 366.82 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2020</h1>\n<p>Iteration = 16<br>\nSeed = 1334541169<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 17,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 297.14 K<br>\nSurface Pressure = 101648.36 Pa<br>\nWind Speed = 4.87509 m s-1<br>\nSolar Radiation = 366.82 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2020</h1>\n<p>Iteration = 17<br>\nSeed = 1630469625<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 18,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.5e-05 Kg m-2 s-1<br>\nTemperature = 297.15 K<br>\nSurface Pressure = 101568.84 Pa<br>\nWind Speed = 4.77274 m s-1<br>\nSolar Radiation = 373.13 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2021</h1>\n<p>Iteration = 18<br>\nSeed = 3611340895<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 19,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.5e-05 Kg m-2 s-1<br>\nTemperature = 297.15 K<br>\nSurface Pressure = 101568.84 Pa<br>\nWind Speed = 4.77274 m s-1<br>\nSolar Radiation = 373.13 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2021</h1>\n<p>Iteration = 19<br>\nSeed = 3901464895<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 20,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.5e-05 Kg m-2 s-1<br>\nTemperature = 297.15 K<br>\nSurface Pressure = 101568.84 Pa<br>\nWind Speed = 4.77274 m s-1<br>\nSolar Radiation = 373.13 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2021</h1>\n<p>Iteration = 20<br>\nSeed = 3451006910<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 21,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.5e-05 Kg m-2 s-1<br>\nTemperature = 297.88 K<br>\nSurface Pressure = 101563.41 Pa<br>\nWind Speed = 4.70883 m s-1<br>\nSolar Radiation = 369.47 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2022</h1>\n<p>Iteration = 21<br>\nSeed = 1136457715<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 22,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.5e-05 Kg m-2 s-1<br>\nTemperature = 297.88 K<br>\nSurface Pressure = 101563.41 Pa<br>\nWind Speed = 4.70883 m s-1<br>\nSolar Radiation = 369.47 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2022</h1>\n<p>Iteration = 22<br>\nSeed = 438241892<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 23,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.5e-05 Kg m-2 s-1<br>\nTemperature = 297.88 K<br>\nSurface Pressure = 101563.41 Pa<br>\nWind Speed = 4.70883 m s-1<br>\nSolar Radiation = 369.47 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2022</h1>\n<p>Iteration = 23<br>\nSeed = 917118258<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 24,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.8e-05 Kg m-2 s-1<br>\nTemperature = 297.23 K<br>\nSurface Pressure = 101562.71 Pa<br>\nWind Speed = 4.87905 m s-1<br>\nSolar Radiation = 364.36 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2023</h1>\n<p>Iteration = 24<br>\nSeed = 3333183054<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 25,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.8e-05 Kg m-2 s-1<br>\nTemperature = 297.23 K<br>\nSurface Pressure = 101562.71 Pa<br>\nWind Speed = 4.87905 m s-1<br>\nSolar Radiation = 364.36 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2023</h1>\n<p>Iteration = 25<br>\nSeed = 2272622823<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 26,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.8e-05 Kg m-2 s-1<br>\nTemperature = 297.23 K<br>\nSurface Pressure = 101562.71 Pa<br>\nWind Speed = 4.87905 m s-1<br>\nSolar Radiation = 364.36 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2023</h1>\n<p>Iteration = 26<br>\nSeed = 1305885265<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 27,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 296.6 K<br>\nSurface Pressure = 101634.22 Pa<br>\nWind Speed = 5.05749 m s-1<br>\nSolar Radiation = 371.96 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2024</h1>\n<p>Iteration = 27<br>\nSeed = 651797866<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 28,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 296.6 K<br>\nSurface Pressure = 101634.22 Pa<br>\nWind Speed = 5.05749 m s-1<br>\nSolar Radiation = 371.96 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2024</h1>\n<p>Iteration = 28<br>\nSeed = 2554636813<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 29,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 296.6 K<br>\nSurface Pressure = 101634.22 Pa<br>\nWind Speed = 5.05749 m s-1<br>\nSolar Radiation = 371.96 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2024</h1>\n<p>Iteration = 29<br>\nSeed = 3177134219<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 30,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.6e-05 Kg m-2 s-1<br>\nTemperature = 297.39 K<br>\nSurface Pressure = 101574.05 Pa<br>\nWind Speed = 4.99011 m s-1<br>\nSolar Radiation = 373.16 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2025</h1>\n<p>Iteration = 30<br>\nSeed = 2384233524<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 31,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.6e-05 Kg m-2 s-1<br>\nTemperature = 297.39 K<br>\nSurface Pressure = 101574.05 Pa<br>\nWind Speed = 4.99011 m s-1<br>\nSolar Radiation = 373.16 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2025</h1>\n<p>Iteration = 31<br>\nSeed = 2164036762<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 32,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.6e-05 Kg m-2 s-1<br>\nTemperature = 297.39 K<br>\nSurface Pressure = 101574.05 Pa<br>\nWind Speed = 4.99011 m s-1<br>\nSolar Radiation = 373.16 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2025</h1>\n<p>Iteration = 32<br>\nSeed = 3630896847<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 33,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.5e-05 Kg m-2 s-1<br>\nTemperature = 297.15 K<br>\nSurface Pressure = 101530.43 Pa<br>\nWind Speed = 4.99203 m s-1<br>\nSolar Radiation = 375.36 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2026</h1>\n<p>Iteration = 33<br>\nSeed = 1377632517<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 34,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.5e-05 Kg m-2 s-1<br>\nTemperature = 297.15 K<br>\nSurface Pressure = 101530.43 Pa<br>\nWind Speed = 4.99203 m s-1<br>\nSolar Radiation = 375.36 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2026</h1>\n<p>Iteration = 34<br>\nSeed = 3376506378<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 35,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.5e-05 Kg m-2 s-1<br>\nTemperature = 297.15 K<br>\nSurface Pressure = 101530.43 Pa<br>\nWind Speed = 4.99203 m s-1<br>\nSolar Radiation = 375.36 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2026</h1>\n<p>Iteration = 35<br>\nSeed = 331081865<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 36,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 5.4e-05 Kg m-2 s-1<br>\nTemperature = 297.17 K<br>\nSurface Pressure = 101596.19 Pa<br>\nWind Speed = 5.14639 m s-1<br>\nSolar Radiation = 378.06 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2027</h1>\n<p>Iteration = 36<br>\nSeed = 3849173369<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 37,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 5.4e-05 Kg m-2 s-1<br>\nTemperature = 297.17 K<br>\nSurface Pressure = 101596.19 Pa<br>\nWind Speed = 5.14639 m s-1<br>\nSolar Radiation = 378.06 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2027</h1>\n<p>Iteration = 37<br>\nSeed = 715753181<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 38,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 5.4e-05 Kg m-2 s-1<br>\nTemperature = 297.17 K<br>\nSurface Pressure = 101596.19 Pa<br>\nWind Speed = 5.14639 m s-1<br>\nSolar Radiation = 378.06 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2027</h1>\n<p>Iteration = 38<br>\nSeed = 2902237177<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 39,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 296.95 K<br>\nSurface Pressure = 101582.04 Pa<br>\nWind Speed = 5.13137 m s-1<br>\nSolar Radiation = 373.67 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2028</h1>\n<p>Iteration = 39<br>\nSeed = 3839618010<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 40,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 296.95 K<br>\nSurface Pressure = 101582.04 Pa<br>\nWind Speed = 5.13137 m s-1<br>\nSolar Radiation = 373.67 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2028</h1>\n<p>Iteration = 40<br>\nSeed = 575281657<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 41,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 296.95 K<br>\nSurface Pressure = 101582.04 Pa<br>\nWind Speed = 5.13137 m s-1<br>\nSolar Radiation = 373.67 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2028</h1>\n<p>Iteration = 41<br>\nSeed = 3596124371<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 42,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.3e-05 Kg m-2 s-1<br>\nTemperature = 296.95 K<br>\nSurface Pressure = 101648.88 Pa<br>\nWind Speed = 5.14229 m s-1<br>\nSolar Radiation = 368.17 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2029</h1>\n<p>Iteration = 42<br>\nSeed = 4098420794<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 43,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.3e-05 Kg m-2 s-1<br>\nTemperature = 296.95 K<br>\nSurface Pressure = 101648.88 Pa<br>\nWind Speed = 5.14229 m s-1<br>\nSolar Radiation = 368.17 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2029</h1>\n<p>Iteration = 43<br>\nSeed = 4189348893<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 44,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.3e-05 Kg m-2 s-1<br>\nTemperature = 296.95 K<br>\nSurface Pressure = 101648.88 Pa<br>\nWind Speed = 5.14229 m s-1<br>\nSolar Radiation = 368.17 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2029</h1>\n<p>Iteration = 44<br>\nSeed = 2713249460<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 45,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 297.67 K<br>\nSurface Pressure = 101528.81 Pa<br>\nWind Speed = 5.58025 m s-1<br>\nSolar Radiation = 373.65 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2030</h1>\n<p>Iteration = 45<br>\nSeed = 1276587771<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 46,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 297.67 K<br>\nSurface Pressure = 101528.81 Pa<br>\nWind Speed = 5.58025 m s-1<br>\nSolar Radiation = 373.65 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2030</h1>\n<p>Iteration = 46<br>\nSeed = 1850808006<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 47,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 297.67 K<br>\nSurface Pressure = 101528.81 Pa<br>\nWind Speed = 5.58025 m s-1<br>\nSolar Radiation = 373.65 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2030</h1>\n<p>Iteration = 47<br>\nSeed = 1576093232<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 48,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.9e-05 Kg m-2 s-1<br>\nTemperature = 297.7 K<br>\nSurface Pressure = 101613.84 Pa<br>\nWind Speed = 5.27582 m s-1<br>\nSolar Radiation = 374.12 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2031</h1>\n<p>Iteration = 48<br>\nSeed = 3078835470<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 49,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.9e-05 Kg m-2 s-1<br>\nTemperature = 297.7 K<br>\nSurface Pressure = 101613.84 Pa<br>\nWind Speed = 5.27582 m s-1<br>\nSolar Radiation = 374.12 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2031</h1>\n<p>Iteration = 49<br>\nSeed = 566845905<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 50,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.9e-05 Kg m-2 s-1<br>\nTemperature = 297.7 K<br>\nSurface Pressure = 101613.84 Pa<br>\nWind Speed = 5.27582 m s-1<br>\nSolar Radiation = 374.12 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2031</h1>\n<p>Iteration = 50<br>\nSeed = 2838683924<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 51,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 297.07 K<br>\nSurface Pressure = 101605.77 Pa<br>\nWind Speed = 5.19271 m s-1<br>\nSolar Radiation = 371.69 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2032</h1>\n<p>Iteration = 51<br>\nSeed = 3841001349<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 52,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 297.07 K<br>\nSurface Pressure = 101605.77 Pa<br>\nWind Speed = 5.19271 m s-1<br>\nSolar Radiation = 371.69 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2032</h1>\n<p>Iteration = 52<br>\nSeed = 828603180<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 53,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 297.07 K<br>\nSurface Pressure = 101605.77 Pa<br>\nWind Speed = 5.19271 m s-1<br>\nSolar Radiation = 371.69 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2032</h1>\n<p>Iteration = 53<br>\nSeed = 2164995345<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 54,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.1e-05 Kg m-2 s-1<br>\nTemperature = 296.99 K<br>\nSurface Pressure = 101577.03 Pa<br>\nWind Speed = 5.30667 m s-1<br>\nSolar Radiation = 373.57 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2033</h1>\n<p>Iteration = 54<br>\nSeed = 3728202939<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 55,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.1e-05 Kg m-2 s-1<br>\nTemperature = 296.99 K<br>\nSurface Pressure = 101577.03 Pa<br>\nWind Speed = 5.30667 m s-1<br>\nSolar Radiation = 373.57 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2033</h1>\n<p>Iteration = 55<br>\nSeed = 1856116210<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 56,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.1e-05 Kg m-2 s-1<br>\nTemperature = 296.99 K<br>\nSurface Pressure = 101577.03 Pa<br>\nWind Speed = 5.30667 m s-1<br>\nSolar Radiation = 373.57 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2033</h1>\n<p>Iteration = 56<br>\nSeed = 1886817859<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 57,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4e-05 Kg m-2 s-1<br>\nTemperature = 297.44 K<br>\nSurface Pressure = 101612.32 Pa<br>\nWind Speed = 5.29366 m s-1<br>\nSolar Radiation = 378.15 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2034</h1>\n<p>Iteration = 57<br>\nSeed = 1752138926<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 58,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4e-05 Kg m-2 s-1<br>\nTemperature = 297.44 K<br>\nSurface Pressure = 101612.32 Pa<br>\nWind Speed = 5.29366 m s-1<br>\nSolar Radiation = 378.15 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2034</h1>\n<p>Iteration = 58<br>\nSeed = 2445405191<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 59,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4e-05 Kg m-2 s-1<br>\nTemperature = 297.44 K<br>\nSurface Pressure = 101612.32 Pa<br>\nWind Speed = 5.29366 m s-1<br>\nSolar Radiation = 378.15 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2034</h1>\n<p>Iteration = 59<br>\nSeed = 1219715789<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 60,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3e-05 Kg m-2 s-1<br>\nTemperature = 298.04 K<br>\nSurface Pressure = 101481.02 Pa<br>\nWind Speed = 5.40704 m s-1<br>\nSolar Radiation = 377.01 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2035</h1>\n<p>Iteration = 60<br>\nSeed = 1739271635<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 61,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3e-05 Kg m-2 s-1<br>\nTemperature = 298.04 K<br>\nSurface Pressure = 101481.02 Pa<br>\nWind Speed = 5.40704 m s-1<br>\nSolar Radiation = 377.01 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2035</h1>\n<p>Iteration = 61<br>\nSeed = 1766964191<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 62,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3e-05 Kg m-2 s-1<br>\nTemperature = 298.04 K<br>\nSurface Pressure = 101481.02 Pa<br>\nWind Speed = 5.40704 m s-1<br>\nSolar Radiation = 377.01 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2035</h1>\n<p>Iteration = 62<br>\nSeed = 2263191782<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 63,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 297.8 K<br>\nSurface Pressure = 101673.61 Pa<br>\nWind Speed = 5.29954 m s-1<br>\nSolar Radiation = 374.46 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2036</h1>\n<p>Iteration = 63<br>\nSeed = 897457303<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 64,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 297.8 K<br>\nSurface Pressure = 101673.61 Pa<br>\nWind Speed = 5.29954 m s-1<br>\nSolar Radiation = 374.46 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2036</h1>\n<p>Iteration = 64<br>\nSeed = 4022882516<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 65,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 297.8 K<br>\nSurface Pressure = 101673.61 Pa<br>\nWind Speed = 5.29954 m s-1<br>\nSolar Radiation = 374.46 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2036</h1>\n<p>Iteration = 65<br>\nSeed = 2293885323<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 66,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 297.76 K<br>\nSurface Pressure = 101598.14 Pa<br>\nWind Speed = 5.49664 m s-1<br>\nSolar Radiation = 371.63 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2037</h1>\n<p>Iteration = 66<br>\nSeed = 1773857420<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 67,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 297.76 K<br>\nSurface Pressure = 101598.14 Pa<br>\nWind Speed = 5.49664 m s-1<br>\nSolar Radiation = 371.63 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2037</h1>\n<p>Iteration = 67<br>\nSeed = 3898796538<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 68,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 297.76 K<br>\nSurface Pressure = 101598.14 Pa<br>\nWind Speed = 5.49664 m s-1<br>\nSolar Radiation = 371.63 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2037</h1>\n<p>Iteration = 68<br>\nSeed = 361414468<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 69,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 297.28 K<br>\nSurface Pressure = 101620.51 Pa<br>\nWind Speed = 5.24463 m s-1<br>\nSolar Radiation = 376.51 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2038</h1>\n<p>Iteration = 69<br>\nSeed = 1440151366<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 70,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 297.28 K<br>\nSurface Pressure = 101620.51 Pa<br>\nWind Speed = 5.24463 m s-1<br>\nSolar Radiation = 376.51 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2038</h1>\n<p>Iteration = 70<br>\nSeed = 4013443508<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 71,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 297.28 K<br>\nSurface Pressure = 101620.51 Pa<br>\nWind Speed = 5.24463 m s-1<br>\nSolar Radiation = 376.51 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2038</h1>\n<p>Iteration = 71<br>\nSeed = 1951566042<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 72,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 297.79 K<br>\nSurface Pressure = 101724.09 Pa<br>\nWind Speed = 5.36051 m s-1<br>\nSolar Radiation = 378.51 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2039</h1>\n<p>Iteration = 72<br>\nSeed = 2175701541<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 73,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 297.79 K<br>\nSurface Pressure = 101724.09 Pa<br>\nWind Speed = 5.36051 m s-1<br>\nSolar Radiation = 378.51 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2039</h1>\n<p>Iteration = 73<br>\nSeed = 2355744572<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 74,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 297.79 K<br>\nSurface Pressure = 101724.09 Pa<br>\nWind Speed = 5.36051 m s-1<br>\nSolar Radiation = 378.51 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2039</h1>\n<p>Iteration = 74<br>\nSeed = 854371513<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 75,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.6e-05 Kg m-2 s-1<br>\nTemperature = 297.76 K<br>\nSurface Pressure = 101582.88 Pa<br>\nWind Speed = 5.29794 m s-1<br>\nSolar Radiation = 380.7 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2040</h1>\n<p>Iteration = 75<br>\nSeed = 1596988974<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 76,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.6e-05 Kg m-2 s-1<br>\nTemperature = 297.76 K<br>\nSurface Pressure = 101582.88 Pa<br>\nWind Speed = 5.29794 m s-1<br>\nSolar Radiation = 380.7 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2040</h1>\n<p>Iteration = 76<br>\nSeed = 3101581948<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 77,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.6e-05 Kg m-2 s-1<br>\nTemperature = 297.76 K<br>\nSurface Pressure = 101582.88 Pa<br>\nWind Speed = 5.29794 m s-1<br>\nSolar Radiation = 380.7 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2040</h1>\n<p>Iteration = 77<br>\nSeed = 1580786803<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 78,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 297.58 K<br>\nSurface Pressure = 101651.44 Pa<br>\nWind Speed = 5.92218 m s-1<br>\nSolar Radiation = 382.16 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2041</h1>\n<p>Iteration = 78<br>\nSeed = 3908745946<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 79,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 297.58 K<br>\nSurface Pressure = 101651.44 Pa<br>\nWind Speed = 5.92218 m s-1<br>\nSolar Radiation = 382.16 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2041</h1>\n<p>Iteration = 79<br>\nSeed = 915066620<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 80,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 297.58 K<br>\nSurface Pressure = 101651.44 Pa<br>\nWind Speed = 5.92218 m s-1<br>\nSolar Radiation = 382.16 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2041</h1>\n<p>Iteration = 80<br>\nSeed = 3124311556<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 81,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.2e-05 Kg m-2 s-1<br>\nTemperature = 297.15 K<br>\nSurface Pressure = 101674.29 Pa<br>\nWind Speed = 5.54013 m s-1<br>\nSolar Radiation = 381.34 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2042</h1>\n<p>Iteration = 81<br>\nSeed = 1457652483<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 82,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.2e-05 Kg m-2 s-1<br>\nTemperature = 297.15 K<br>\nSurface Pressure = 101674.29 Pa<br>\nWind Speed = 5.54013 m s-1<br>\nSolar Radiation = 381.34 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2042</h1>\n<p>Iteration = 82<br>\nSeed = 2049655012<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 83,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.2e-05 Kg m-2 s-1<br>\nTemperature = 297.15 K<br>\nSurface Pressure = 101674.29 Pa<br>\nWind Speed = 5.54013 m s-1<br>\nSolar Radiation = 381.34 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2042</h1>\n<p>Iteration = 83<br>\nSeed = 2274962155<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 84,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 298.6 K<br>\nSurface Pressure = 101568.72 Pa<br>\nWind Speed = 5.45986 m s-1<br>\nSolar Radiation = 378.68 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2043</h1>\n<p>Iteration = 84<br>\nSeed = 4035475254<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 85,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 298.6 K<br>\nSurface Pressure = 101568.72 Pa<br>\nWind Speed = 5.45986 m s-1<br>\nSolar Radiation = 378.68 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2043</h1>\n<p>Iteration = 85<br>\nSeed = 2424951231<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 86,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 298.6 K<br>\nSurface Pressure = 101568.72 Pa<br>\nWind Speed = 5.45986 m s-1<br>\nSolar Radiation = 378.68 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2043</h1>\n<p>Iteration = 86<br>\nSeed = 1215935066<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 87,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 298.47 K<br>\nSurface Pressure = 101604.24 Pa<br>\nWind Speed = 5.05303 m s-1<br>\nSolar Radiation = 375.83 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2044</h1>\n<p>Iteration = 87<br>\nSeed = 2128012127<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 88,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 298.47 K<br>\nSurface Pressure = 101604.24 Pa<br>\nWind Speed = 5.05303 m s-1<br>\nSolar Radiation = 375.83 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2044</h1>\n<p>Iteration = 88<br>\nSeed = 81317993<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 89,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 298.47 K<br>\nSurface Pressure = 101604.24 Pa<br>\nWind Speed = 5.05303 m s-1<br>\nSolar Radiation = 375.83 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2044</h1>\n<p>Iteration = 89<br>\nSeed = 4035681743<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 90,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.6e-05 Kg m-2 s-1<br>\nTemperature = 297.73 K<br>\nSurface Pressure = 101657.11 Pa<br>\nWind Speed = 5.3412 m s-1<br>\nSolar Radiation = 381.25 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2045</h1>\n<p>Iteration = 90<br>\nSeed = 4209555495<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 91,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.6e-05 Kg m-2 s-1<br>\nTemperature = 297.73 K<br>\nSurface Pressure = 101657.11 Pa<br>\nWind Speed = 5.3412 m s-1<br>\nSolar Radiation = 381.25 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2045</h1>\n<p>Iteration = 91<br>\nSeed = 951240854<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 92,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.6e-05 Kg m-2 s-1<br>\nTemperature = 297.73 K<br>\nSurface Pressure = 101657.11 Pa<br>\nWind Speed = 5.3412 m s-1<br>\nSolar Radiation = 381.25 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2045</h1>\n<p>Iteration = 92<br>\nSeed = 689522021<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 93,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.3e-05 Kg m-2 s-1<br>\nTemperature = 297.85 K<br>\nSurface Pressure = 101524.25 Pa<br>\nWind Speed = 5.46621 m s-1<br>\nSolar Radiation = 380.22 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2046</h1>\n<p>Iteration = 93<br>\nSeed = 2719197572<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 94,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.3e-05 Kg m-2 s-1<br>\nTemperature = 297.85 K<br>\nSurface Pressure = 101524.25 Pa<br>\nWind Speed = 5.46621 m s-1<br>\nSolar Radiation = 380.22 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2046</h1>\n<p>Iteration = 94<br>\nSeed = 2807339459<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 95,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.3e-05 Kg m-2 s-1<br>\nTemperature = 297.85 K<br>\nSurface Pressure = 101524.25 Pa<br>\nWind Speed = 5.46621 m s-1<br>\nSolar Radiation = 380.22 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2046</h1>\n<p>Iteration = 95<br>\nSeed = 779963843<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 96,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.9e-05 Kg m-2 s-1<br>\nTemperature = 297.75 K<br>\nSurface Pressure = 101579.05 Pa<br>\nWind Speed = 5.35042 m s-1<br>\nSolar Radiation = 378.89 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2047</h1>\n<p>Iteration = 96<br>\nSeed = 2749702381<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 97,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.9e-05 Kg m-2 s-1<br>\nTemperature = 297.75 K<br>\nSurface Pressure = 101579.05 Pa<br>\nWind Speed = 5.35042 m s-1<br>\nSolar Radiation = 378.89 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2047</h1>\n<p>Iteration = 97<br>\nSeed = 3967199296<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 98,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.9e-05 Kg m-2 s-1<br>\nTemperature = 297.75 K<br>\nSurface Pressure = 101579.05 Pa<br>\nWind Speed = 5.35042 m s-1<br>\nSolar Radiation = 378.89 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2047</h1>\n<p>Iteration = 98<br>\nSeed = 533889473<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 99,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 297.91 K<br>\nSurface Pressure = 101678.15 Pa<br>\nWind Speed = 5.46966 m s-1<br>\nSolar Radiation = 380.42 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2048</h1>\n<p>Iteration = 99<br>\nSeed = 1005065516<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 100,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 297.91 K<br>\nSurface Pressure = 101678.15 Pa<br>\nWind Speed = 5.46966 m s-1<br>\nSolar Radiation = 380.42 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2048</h1>\n<p>Iteration = 100<br>\nSeed = 1669790582<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 101,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 297.91 K<br>\nSurface Pressure = 101678.15 Pa<br>\nWind Speed = 5.46966 m s-1<br>\nSolar Radiation = 380.42 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2048</h1>\n<p>Iteration = 101<br>\nSeed = 412421970<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 102,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.3e-05 Kg m-2 s-1<br>\nTemperature = 297.72 K<br>\nSurface Pressure = 101633.88 Pa<br>\nWind Speed = 5.41965 m s-1<br>\nSolar Radiation = 379.48 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2049</h1>\n<p>Iteration = 102<br>\nSeed = 1753932470<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 103,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.3e-05 Kg m-2 s-1<br>\nTemperature = 297.72 K<br>\nSurface Pressure = 101633.88 Pa<br>\nWind Speed = 5.41965 m s-1<br>\nSolar Radiation = 379.48 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2049</h1>\n<p>Iteration = 103<br>\nSeed = 1564851359<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 104,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.3e-05 Kg m-2 s-1<br>\nTemperature = 297.72 K<br>\nSurface Pressure = 101633.88 Pa<br>\nWind Speed = 5.41965 m s-1<br>\nSolar Radiation = 379.48 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2049</h1>\n<p>Iteration = 104<br>\nSeed = 3464532810<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 105,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.1e-05 Kg m-2 s-1<br>\nTemperature = 298.13 K<br>\nSurface Pressure = 101656.35 Pa<br>\nWind Speed = 5.37519 m s-1<br>\nSolar Radiation = 379.72 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2050</h1>\n<p>Iteration = 105<br>\nSeed = 3741959386<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 106,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.1e-05 Kg m-2 s-1<br>\nTemperature = 298.13 K<br>\nSurface Pressure = 101656.35 Pa<br>\nWind Speed = 5.37519 m s-1<br>\nSolar Radiation = 379.72 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2050</h1>\n<p>Iteration = 106<br>\nSeed = 3864370653<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 107,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.1e-05 Kg m-2 s-1<br>\nTemperature = 298.13 K<br>\nSurface Pressure = 101656.35 Pa<br>\nWind Speed = 5.37519 m s-1<br>\nSolar Radiation = 379.72 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2050</h1>\n<p>Iteration = 107<br>\nSeed = 1584882637<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 108,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 298.85 K<br>\nSurface Pressure = 101599.72 Pa<br>\nWind Speed = 5.61021 m s-1<br>\nSolar Radiation = 380.8 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2051</h1>\n<p>Iteration = 108<br>\nSeed = 90192769<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 109,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 298.85 K<br>\nSurface Pressure = 101599.72 Pa<br>\nWind Speed = 5.61021 m s-1<br>\nSolar Radiation = 380.8 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2051</h1>\n<p>Iteration = 109<br>\nSeed = 2086384568<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 110,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 298.85 K<br>\nSurface Pressure = 101599.72 Pa<br>\nWind Speed = 5.61021 m s-1<br>\nSolar Radiation = 380.8 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2051</h1>\n<p>Iteration = 110<br>\nSeed = 1270946394<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 111,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.2e-05 Kg m-2 s-1<br>\nTemperature = 298.85 K<br>\nSurface Pressure = 101567.79 Pa<br>\nWind Speed = 5.50185 m s-1<br>\nSolar Radiation = 383.73 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2052</h1>\n<p>Iteration = 111<br>\nSeed = 3547042509<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 112,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.2e-05 Kg m-2 s-1<br>\nTemperature = 298.85 K<br>\nSurface Pressure = 101567.79 Pa<br>\nWind Speed = 5.50185 m s-1<br>\nSolar Radiation = 383.73 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2052</h1>\n<p>Iteration = 112<br>\nSeed = 943835602<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 113,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.2e-05 Kg m-2 s-1<br>\nTemperature = 298.85 K<br>\nSurface Pressure = 101567.79 Pa<br>\nWind Speed = 5.50185 m s-1<br>\nSolar Radiation = 383.73 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2052</h1>\n<p>Iteration = 113<br>\nSeed = 2817418772<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 114,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 298.71 K<br>\nSurface Pressure = 101656.23 Pa<br>\nWind Speed = 5.35137 m s-1<br>\nSolar Radiation = 385.51 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2053</h1>\n<p>Iteration = 114<br>\nSeed = 2599769359<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 115,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 298.71 K<br>\nSurface Pressure = 101656.23 Pa<br>\nWind Speed = 5.35137 m s-1<br>\nSolar Radiation = 385.51 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2053</h1>\n<p>Iteration = 115<br>\nSeed = 2501282093<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 116,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 298.71 K<br>\nSurface Pressure = 101656.23 Pa<br>\nWind Speed = 5.35137 m s-1<br>\nSolar Radiation = 385.51 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2053</h1>\n<p>Iteration = 116<br>\nSeed = 2883474194<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 117,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.3e-05 Kg m-2 s-1<br>\nTemperature = 298.57 K<br>\nSurface Pressure = 101654.61 Pa<br>\nWind Speed = 5.60802 m s-1<br>\nSolar Radiation = 388.11 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2054</h1>\n<p>Iteration = 117<br>\nSeed = 2336105769<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 118,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.3e-05 Kg m-2 s-1<br>\nTemperature = 298.57 K<br>\nSurface Pressure = 101654.61 Pa<br>\nWind Speed = 5.60802 m s-1<br>\nSolar Radiation = 388.11 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2054</h1>\n<p>Iteration = 118<br>\nSeed = 2173556769<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 119,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.3e-05 Kg m-2 s-1<br>\nTemperature = 298.57 K<br>\nSurface Pressure = 101654.61 Pa<br>\nWind Speed = 5.60802 m s-1<br>\nSolar Radiation = 388.11 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2054</h1>\n<p>Iteration = 119<br>\nSeed = 3761600894<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 120,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.7e-05 Kg m-2 s-1<br>\nTemperature = 298.77 K<br>\nSurface Pressure = 101605.53 Pa<br>\nWind Speed = 5.29955 m s-1<br>\nSolar Radiation = 382.94 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2055</h1>\n<p>Iteration = 120<br>\nSeed = 3649693814<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 121,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.7e-05 Kg m-2 s-1<br>\nTemperature = 298.77 K<br>\nSurface Pressure = 101605.53 Pa<br>\nWind Speed = 5.29955 m s-1<br>\nSolar Radiation = 382.94 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2055</h1>\n<p>Iteration = 121<br>\nSeed = 2531259309<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 122,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.7e-05 Kg m-2 s-1<br>\nTemperature = 298.77 K<br>\nSurface Pressure = 101605.53 Pa<br>\nWind Speed = 5.29955 m s-1<br>\nSolar Radiation = 382.94 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2055</h1>\n<p>Iteration = 122<br>\nSeed = 3675116380<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 123,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 298.34 K<br>\nSurface Pressure = 101506.84 Pa<br>\nWind Speed = 5.31496 m s-1<br>\nSolar Radiation = 385.6 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2056</h1>\n<p>Iteration = 123<br>\nSeed = 3864695599<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 124,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 298.34 K<br>\nSurface Pressure = 101506.84 Pa<br>\nWind Speed = 5.31496 m s-1<br>\nSolar Radiation = 385.6 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2056</h1>\n<p>Iteration = 124<br>\nSeed = 1950312605<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 125,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 298.34 K<br>\nSurface Pressure = 101506.84 Pa<br>\nWind Speed = 5.31496 m s-1<br>\nSolar Radiation = 385.6 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2056</h1>\n<p>Iteration = 125<br>\nSeed = 2476910014<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 126,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2e-05 Kg m-2 s-1<br>\nTemperature = 299.16 K<br>\nSurface Pressure = 101628.61 Pa<br>\nWind Speed = 5.42953 m s-1<br>\nSolar Radiation = 379.69 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2057</h1>\n<p>Iteration = 126<br>\nSeed = 2417090207<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 127,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2e-05 Kg m-2 s-1<br>\nTemperature = 299.16 K<br>\nSurface Pressure = 101628.61 Pa<br>\nWind Speed = 5.42953 m s-1<br>\nSolar Radiation = 379.69 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2057</h1>\n<p>Iteration = 127<br>\nSeed = 643082396<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 128,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2e-05 Kg m-2 s-1<br>\nTemperature = 299.16 K<br>\nSurface Pressure = 101628.61 Pa<br>\nWind Speed = 5.42953 m s-1<br>\nSolar Radiation = 379.69 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2057</h1>\n<p>Iteration = 128<br>\nSeed = 3971676308<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 129,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.4e-05 Kg m-2 s-1<br>\nTemperature = 298.64 K<br>\nSurface Pressure = 101585.53 Pa<br>\nWind Speed = 5.45595 m s-1<br>\nSolar Radiation = 386.47 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2058</h1>\n<p>Iteration = 129<br>\nSeed = 3604724858<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 130,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.4e-05 Kg m-2 s-1<br>\nTemperature = 298.64 K<br>\nSurface Pressure = 101585.53 Pa<br>\nWind Speed = 5.45595 m s-1<br>\nSolar Radiation = 386.47 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2058</h1>\n<p>Iteration = 130<br>\nSeed = 1970037047<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 131,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.4e-05 Kg m-2 s-1<br>\nTemperature = 298.64 K<br>\nSurface Pressure = 101585.53 Pa<br>\nWind Speed = 5.45595 m s-1<br>\nSolar Radiation = 386.47 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2058</h1>\n<p>Iteration = 131<br>\nSeed = 2222519711<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 132,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.4e-05 Kg m-2 s-1<br>\nTemperature = 298.28 K<br>\nSurface Pressure = 101659.71 Pa<br>\nWind Speed = 5.69807 m s-1<br>\nSolar Radiation = 388.0 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2059</h1>\n<p>Iteration = 132<br>\nSeed = 374838912<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 133,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.4e-05 Kg m-2 s-1<br>\nTemperature = 298.28 K<br>\nSurface Pressure = 101659.71 Pa<br>\nWind Speed = 5.69807 m s-1<br>\nSolar Radiation = 388.0 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2059</h1>\n<p>Iteration = 133<br>\nSeed = 1017657369<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 134,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.4e-05 Kg m-2 s-1<br>\nTemperature = 298.28 K<br>\nSurface Pressure = 101659.71 Pa<br>\nWind Speed = 5.69807 m s-1<br>\nSolar Radiation = 388.0 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2059</h1>\n<p>Iteration = 134<br>\nSeed = 3389155635<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 135,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 298.9 K<br>\nSurface Pressure = 101695.57 Pa<br>\nWind Speed = 5.64028 m s-1<br>\nSolar Radiation = 384.36 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2060</h1>\n<p>Iteration = 135<br>\nSeed = 2956639902<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 136,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 298.9 K<br>\nSurface Pressure = 101695.57 Pa<br>\nWind Speed = 5.64028 m s-1<br>\nSolar Radiation = 384.36 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2060</h1>\n<p>Iteration = 136<br>\nSeed = 1212756454<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 137,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 298.9 K<br>\nSurface Pressure = 101695.57 Pa<br>\nWind Speed = 5.64028 m s-1<br>\nSolar Radiation = 384.36 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2060</h1>\n<p>Iteration = 137<br>\nSeed = 3782827111<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 138,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 298.9 K<br>\nSurface Pressure = 101622.81 Pa<br>\nWind Speed = 5.45728 m s-1<br>\nSolar Radiation = 388.27 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2061</h1>\n<p>Iteration = 138<br>\nSeed = 3266153766<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 139,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 298.9 K<br>\nSurface Pressure = 101622.81 Pa<br>\nWind Speed = 5.45728 m s-1<br>\nSolar Radiation = 388.27 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2061</h1>\n<p>Iteration = 139<br>\nSeed = 3123802859<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 140,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.4e-05 Kg m-2 s-1<br>\nTemperature = 298.9 K<br>\nSurface Pressure = 101622.81 Pa<br>\nWind Speed = 5.45728 m s-1<br>\nSolar Radiation = 388.27 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2061</h1>\n<p>Iteration = 140<br>\nSeed = 3106088347<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 141,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.9e-05 Kg m-2 s-1<br>\nTemperature = 299.11 K<br>\nSurface Pressure = 101606.79 Pa<br>\nWind Speed = 5.25291 m s-1<br>\nSolar Radiation = 384.24 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2062</h1>\n<p>Iteration = 141<br>\nSeed = 2063580923<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 142,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.9e-05 Kg m-2 s-1<br>\nTemperature = 299.11 K<br>\nSurface Pressure = 101606.79 Pa<br>\nWind Speed = 5.25291 m s-1<br>\nSolar Radiation = 384.24 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2062</h1>\n<p>Iteration = 142<br>\nSeed = 572539724<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 143,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.9e-05 Kg m-2 s-1<br>\nTemperature = 299.11 K<br>\nSurface Pressure = 101606.79 Pa<br>\nWind Speed = 5.25291 m s-1<br>\nSolar Radiation = 384.24 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2062</h1>\n<p>Iteration = 143<br>\nSeed = 3100142699<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 144,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 298.61 K<br>\nSurface Pressure = 101613.26 Pa<br>\nWind Speed = 5.30228 m s-1<br>\nSolar Radiation = 388.9 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2063</h1>\n<p>Iteration = 144<br>\nSeed = 3757418452<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 145,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 298.61 K<br>\nSurface Pressure = 101613.26 Pa<br>\nWind Speed = 5.30228 m s-1<br>\nSolar Radiation = 388.9 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2063</h1>\n<p>Iteration = 145<br>\nSeed = 2502062908<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 146,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 298.61 K<br>\nSurface Pressure = 101613.26 Pa<br>\nWind Speed = 5.30228 m s-1<br>\nSolar Radiation = 388.9 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2063</h1>\n<p>Iteration = 146<br>\nSeed = 2007952011<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 147,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 5.3e-05 Kg m-2 s-1<br>\nTemperature = 299.15 K<br>\nSurface Pressure = 101605.54 Pa<br>\nWind Speed = 5.1801 m s-1<br>\nSolar Radiation = 389.69 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2064</h1>\n<p>Iteration = 147<br>\nSeed = 1497406359<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 148,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 5.3e-05 Kg m-2 s-1<br>\nTemperature = 299.15 K<br>\nSurface Pressure = 101605.54 Pa<br>\nWind Speed = 5.1801 m s-1<br>\nSolar Radiation = 389.69 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2064</h1>\n<p>Iteration = 148<br>\nSeed = 596374076<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 149,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 5.3e-05 Kg m-2 s-1<br>\nTemperature = 299.15 K<br>\nSurface Pressure = 101605.54 Pa<br>\nWind Speed = 5.1801 m s-1<br>\nSolar Radiation = 389.69 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2064</h1>\n<p>Iteration = 149<br>\nSeed = 3791933311<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 150,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.6e-05 Kg m-2 s-1<br>\nTemperature = 299.07 K<br>\nSurface Pressure = 101639.3 Pa<br>\nWind Speed = 5.47807 m s-1<br>\nSolar Radiation = 391.41 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2065</h1>\n<p>Iteration = 150<br>\nSeed = 2763791965<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 151,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.6e-05 Kg m-2 s-1<br>\nTemperature = 299.07 K<br>\nSurface Pressure = 101639.3 Pa<br>\nWind Speed = 5.47807 m s-1<br>\nSolar Radiation = 391.41 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2065</h1>\n<p>Iteration = 151<br>\nSeed = 1874661394<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 152,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.6e-05 Kg m-2 s-1<br>\nTemperature = 299.07 K<br>\nSurface Pressure = 101639.3 Pa<br>\nWind Speed = 5.47807 m s-1<br>\nSolar Radiation = 391.41 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2065</h1>\n<p>Iteration = 152<br>\nSeed = 4101243654<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 153,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 298.84 K<br>\nSurface Pressure = 101716.36 Pa<br>\nWind Speed = 5.2168 m s-1<br>\nSolar Radiation = 383.75 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2066</h1>\n<p>Iteration = 153<br>\nSeed = 1725445224<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 154,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 298.84 K<br>\nSurface Pressure = 101716.36 Pa<br>\nWind Speed = 5.2168 m s-1<br>\nSolar Radiation = 383.75 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2066</h1>\n<p>Iteration = 154<br>\nSeed = 1210097054<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 155,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 298.84 K<br>\nSurface Pressure = 101716.36 Pa<br>\nWind Speed = 5.2168 m s-1<br>\nSolar Radiation = 383.75 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2066</h1>\n<p>Iteration = 155<br>\nSeed = 4215626334<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 156,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.8e-05 Kg m-2 s-1<br>\nTemperature = 298.81 K<br>\nSurface Pressure = 101561.29 Pa<br>\nWind Speed = 5.42469 m s-1<br>\nSolar Radiation = 394.28 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2067</h1>\n<p>Iteration = 156<br>\nSeed = 1524850485<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 157,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.8e-05 Kg m-2 s-1<br>\nTemperature = 298.81 K<br>\nSurface Pressure = 101561.29 Pa<br>\nWind Speed = 5.42469 m s-1<br>\nSolar Radiation = 394.28 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2067</h1>\n<p>Iteration = 157<br>\nSeed = 2984331375<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 158,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.8e-05 Kg m-2 s-1<br>\nTemperature = 298.81 K<br>\nSurface Pressure = 101561.29 Pa<br>\nWind Speed = 5.42469 m s-1<br>\nSolar Radiation = 394.28 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2067</h1>\n<p>Iteration = 158<br>\nSeed = 3037341448<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 159,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.5e-05 Kg m-2 s-1<br>\nTemperature = 299.32 K<br>\nSurface Pressure = 101633.24 Pa<br>\nWind Speed = 5.51751 m s-1<br>\nSolar Radiation = 394.56 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2068</h1>\n<p>Iteration = 159<br>\nSeed = 962447672<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 160,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.5e-05 Kg m-2 s-1<br>\nTemperature = 299.32 K<br>\nSurface Pressure = 101633.24 Pa<br>\nWind Speed = 5.51751 m s-1<br>\nSolar Radiation = 394.56 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2068</h1>\n<p>Iteration = 160<br>\nSeed = 2933161268<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 161,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.5e-05 Kg m-2 s-1<br>\nTemperature = 299.32 K<br>\nSurface Pressure = 101633.24 Pa<br>\nWind Speed = 5.51751 m s-1<br>\nSolar Radiation = 394.56 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2068</h1>\n<p>Iteration = 161<br>\nSeed = 1663231178<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 162,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.1e-05 Kg m-2 s-1<br>\nTemperature = 299.69 K<br>\nSurface Pressure = 101571.45 Pa<br>\nWind Speed = 5.59215 m s-1<br>\nSolar Radiation = 394.09 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2069</h1>\n<p>Iteration = 162<br>\nSeed = 1254009805<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 163,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.1e-05 Kg m-2 s-1<br>\nTemperature = 299.69 K<br>\nSurface Pressure = 101571.45 Pa<br>\nWind Speed = 5.59215 m s-1<br>\nSolar Radiation = 394.09 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2069</h1>\n<p>Iteration = 163<br>\nSeed = 4055265608<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 164,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4.1e-05 Kg m-2 s-1<br>\nTemperature = 299.69 K<br>\nSurface Pressure = 101571.45 Pa<br>\nWind Speed = 5.59215 m s-1<br>\nSolar Radiation = 394.09 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2069</h1>\n<p>Iteration = 164<br>\nSeed = 505671548<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 165,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3e-05 Kg m-2 s-1<br>\nTemperature = 299.55 K<br>\nSurface Pressure = 101659.79 Pa<br>\nWind Speed = 5.31575 m s-1<br>\nSolar Radiation = 394.26 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2070</h1>\n<p>Iteration = 165<br>\nSeed = 2160295600<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 166,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3e-05 Kg m-2 s-1<br>\nTemperature = 299.55 K<br>\nSurface Pressure = 101659.79 Pa<br>\nWind Speed = 5.31575 m s-1<br>\nSolar Radiation = 394.26 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2070</h1>\n<p>Iteration = 166<br>\nSeed = 3940467751<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 167,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3e-05 Kg m-2 s-1<br>\nTemperature = 299.55 K<br>\nSurface Pressure = 101659.79 Pa<br>\nWind Speed = 5.31575 m s-1<br>\nSolar Radiation = 394.26 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2070</h1>\n<p>Iteration = 167<br>\nSeed = 1653203937<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 168,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 300.4 K<br>\nSurface Pressure = 101600.49 Pa<br>\nWind Speed = 5.34573 m s-1<br>\nSolar Radiation = 391.9 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2071</h1>\n<p>Iteration = 168<br>\nSeed = 4161804007<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 169,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 300.4 K<br>\nSurface Pressure = 101600.49 Pa<br>\nWind Speed = 5.34573 m s-1<br>\nSolar Radiation = 391.9 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2071</h1>\n<p>Iteration = 169<br>\nSeed = 4209832426<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 170,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 300.4 K<br>\nSurface Pressure = 101600.49 Pa<br>\nWind Speed = 5.34573 m s-1<br>\nSolar Radiation = 391.9 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2071</h1>\n<p>Iteration = 170<br>\nSeed = 2319094072<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 171,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.5e-05 Kg m-2 s-1<br>\nTemperature = 299.56 K<br>\nSurface Pressure = 101556.78 Pa<br>\nWind Speed = 5.40202 m s-1<br>\nSolar Radiation = 389.95 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2072</h1>\n<p>Iteration = 171<br>\nSeed = 995332064<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 172,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.5e-05 Kg m-2 s-1<br>\nTemperature = 299.56 K<br>\nSurface Pressure = 101556.78 Pa<br>\nWind Speed = 5.40202 m s-1<br>\nSolar Radiation = 389.95 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2072</h1>\n<p>Iteration = 172<br>\nSeed = 3382298221<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 173,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.5e-05 Kg m-2 s-1<br>\nTemperature = 299.56 K<br>\nSurface Pressure = 101556.78 Pa<br>\nWind Speed = 5.40202 m s-1<br>\nSolar Radiation = 389.95 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2072</h1>\n<p>Iteration = 173<br>\nSeed = 4303844<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 174,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.4e-05 Kg m-2 s-1<br>\nTemperature = 299.46 K<br>\nSurface Pressure = 101505.36 Pa<br>\nWind Speed = 5.23282 m s-1<br>\nSolar Radiation = 395.09 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2073</h1>\n<p>Iteration = 174<br>\nSeed = 2214654520<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 175,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.4e-05 Kg m-2 s-1<br>\nTemperature = 299.46 K<br>\nSurface Pressure = 101505.36 Pa<br>\nWind Speed = 5.23282 m s-1<br>\nSolar Radiation = 395.09 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2073</h1>\n<p>Iteration = 175<br>\nSeed = 1553691143<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 176,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.4e-05 Kg m-2 s-1<br>\nTemperature = 299.46 K<br>\nSurface Pressure = 101505.36 Pa<br>\nWind Speed = 5.23282 m s-1<br>\nSolar Radiation = 395.09 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2073</h1>\n<p>Iteration = 176<br>\nSeed = 546457291<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 177,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.3e-05 Kg m-2 s-1<br>\nTemperature = 300.07 K<br>\nSurface Pressure = 101504.74 Pa<br>\nWind Speed = 5.77498 m s-1<br>\nSolar Radiation = 397.52 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2074</h1>\n<p>Iteration = 177<br>\nSeed = 2840841784<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 178,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.3e-05 Kg m-2 s-1<br>\nTemperature = 300.07 K<br>\nSurface Pressure = 101504.74 Pa<br>\nWind Speed = 5.77498 m s-1<br>\nSolar Radiation = 397.52 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2074</h1>\n<p>Iteration = 178<br>\nSeed = 2391307264<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 179,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.3e-05 Kg m-2 s-1<br>\nTemperature = 300.07 K<br>\nSurface Pressure = 101504.74 Pa<br>\nWind Speed = 5.77498 m s-1<br>\nSolar Radiation = 397.52 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2074</h1>\n<p>Iteration = 179<br>\nSeed = 1192448842<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 180,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4e-05 Kg m-2 s-1<br>\nTemperature = 299.92 K<br>\nSurface Pressure = 101637.93 Pa<br>\nWind Speed = 5.4208 m s-1<br>\nSolar Radiation = 387.67 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2075</h1>\n<p>Iteration = 180<br>\nSeed = 341733983<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 181,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4e-05 Kg m-2 s-1<br>\nTemperature = 299.92 K<br>\nSurface Pressure = 101637.93 Pa<br>\nWind Speed = 5.4208 m s-1<br>\nSolar Radiation = 387.67 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2075</h1>\n<p>Iteration = 181<br>\nSeed = 3884305551<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 182,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 4e-05 Kg m-2 s-1<br>\nTemperature = 299.92 K<br>\nSurface Pressure = 101637.93 Pa<br>\nWind Speed = 5.4208 m s-1<br>\nSolar Radiation = 387.67 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2075</h1>\n<p>Iteration = 182<br>\nSeed = 2233853346<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 183,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.6e-05 Kg m-2 s-1<br>\nTemperature = 299.53 K<br>\nSurface Pressure = 101633.7 Pa<br>\nWind Speed = 5.38364 m s-1<br>\nSolar Radiation = 393.81 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2076</h1>\n<p>Iteration = 183<br>\nSeed = 988831784<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 184,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.6e-05 Kg m-2 s-1<br>\nTemperature = 299.53 K<br>\nSurface Pressure = 101633.7 Pa<br>\nWind Speed = 5.38364 m s-1<br>\nSolar Radiation = 393.81 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2076</h1>\n<p>Iteration = 184<br>\nSeed = 980342645<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 185,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.6e-05 Kg m-2 s-1<br>\nTemperature = 299.53 K<br>\nSurface Pressure = 101633.7 Pa<br>\nWind Speed = 5.38364 m s-1<br>\nSolar Radiation = 393.81 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2076</h1>\n<p>Iteration = 185<br>\nSeed = 2228214141<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 186,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 299.78 K<br>\nSurface Pressure = 101563.03 Pa<br>\nWind Speed = 5.56044 m s-1<br>\nSolar Radiation = 396.56 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2077</h1>\n<p>Iteration = 186<br>\nSeed = 817385856<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 187,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 299.78 K<br>\nSurface Pressure = 101563.03 Pa<br>\nWind Speed = 5.56044 m s-1<br>\nSolar Radiation = 396.56 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2077</h1>\n<p>Iteration = 187<br>\nSeed = 2099887256<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 188,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 299.78 K<br>\nSurface Pressure = 101563.03 Pa<br>\nWind Speed = 5.56044 m s-1<br>\nSolar Radiation = 396.56 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2077</h1>\n<p>Iteration = 188<br>\nSeed = 961063200<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 189,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 300.18 K<br>\nSurface Pressure = 101676.41 Pa<br>\nWind Speed = 5.26651 m s-1<br>\nSolar Radiation = 398.59 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2078</h1>\n<p>Iteration = 189<br>\nSeed = 4130460251<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 190,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 300.18 K<br>\nSurface Pressure = 101676.41 Pa<br>\nWind Speed = 5.26651 m s-1<br>\nSolar Radiation = 398.59 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2078</h1>\n<p>Iteration = 190<br>\nSeed = 1107381636<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 191,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.7e-05 Kg m-2 s-1<br>\nTemperature = 300.18 K<br>\nSurface Pressure = 101676.41 Pa<br>\nWind Speed = 5.26651 m s-1<br>\nSolar Radiation = 398.59 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2078</h1>\n<p>Iteration = 191<br>\nSeed = 138345272<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 192,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.5e-05 Kg m-2 s-1<br>\nTemperature = 300.88 K<br>\nSurface Pressure = 101571.69 Pa<br>\nWind Speed = 5.15731 m s-1<br>\nSolar Radiation = 399.63 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2079</h1>\n<p>Iteration = 192<br>\nSeed = 3072598505<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 193,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.5e-05 Kg m-2 s-1<br>\nTemperature = 300.88 K<br>\nSurface Pressure = 101571.69 Pa<br>\nWind Speed = 5.15731 m s-1<br>\nSolar Radiation = 399.63 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2079</h1>\n<p>Iteration = 193<br>\nSeed = 830942617<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 194,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.5e-05 Kg m-2 s-1<br>\nTemperature = 300.88 K<br>\nSurface Pressure = 101571.69 Pa<br>\nWind Speed = 5.15731 m s-1<br>\nSolar Radiation = 399.63 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2079</h1>\n<p>Iteration = 194<br>\nSeed = 2838757324<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 195,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.5e-05 Kg m-2 s-1<br>\nTemperature = 299.24 K<br>\nSurface Pressure = 101662.07 Pa<br>\nWind Speed = 5.53592 m s-1<br>\nSolar Radiation = 396.63 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2080</h1>\n<p>Iteration = 195<br>\nSeed = 1710909891<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 196,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.5e-05 Kg m-2 s-1<br>\nTemperature = 299.24 K<br>\nSurface Pressure = 101662.07 Pa<br>\nWind Speed = 5.53592 m s-1<br>\nSolar Radiation = 396.63 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2080</h1>\n<p>Iteration = 196<br>\nSeed = 867969442<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 197,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.5e-05 Kg m-2 s-1<br>\nTemperature = 299.24 K<br>\nSurface Pressure = 101662.07 Pa<br>\nWind Speed = 5.53592 m s-1<br>\nSolar Radiation = 396.63 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2080</h1>\n<p>Iteration = 197<br>\nSeed = 2357239337<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 198,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.7e-05 Kg m-2 s-1<br>\nTemperature = 299.68 K<br>\nSurface Pressure = 101610.48 Pa<br>\nWind Speed = 5.50145 m s-1<br>\nSolar Radiation = 401.27 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2081</h1>\n<p>Iteration = 198<br>\nSeed = 4157368143<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 199,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.7e-05 Kg m-2 s-1<br>\nTemperature = 299.68 K<br>\nSurface Pressure = 101610.48 Pa<br>\nWind Speed = 5.50145 m s-1<br>\nSolar Radiation = 401.27 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2081</h1>\n<p>Iteration = 199<br>\nSeed = 1511180147<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 200,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.7e-05 Kg m-2 s-1<br>\nTemperature = 299.68 K<br>\nSurface Pressure = 101610.48 Pa<br>\nWind Speed = 5.50145 m s-1<br>\nSolar Radiation = 401.27 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2081</h1>\n<p>Iteration = 200<br>\nSeed = 1508823287<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 201,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.3e-05 Kg m-2 s-1<br>\nTemperature = 300.01 K<br>\nSurface Pressure = 101557.67 Pa<br>\nWind Speed = 5.40032 m s-1<br>\nSolar Radiation = 399.5 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2082</h1>\n<p>Iteration = 201<br>\nSeed = 4048282706<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 202,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.3e-05 Kg m-2 s-1<br>\nTemperature = 300.01 K<br>\nSurface Pressure = 101557.67 Pa<br>\nWind Speed = 5.40032 m s-1<br>\nSolar Radiation = 399.5 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2082</h1>\n<p>Iteration = 202<br>\nSeed = 1700359905<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 203,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.3e-05 Kg m-2 s-1<br>\nTemperature = 300.01 K<br>\nSurface Pressure = 101557.67 Pa<br>\nWind Speed = 5.40032 m s-1<br>\nSolar Radiation = 399.5 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2082</h1>\n<p>Iteration = 203<br>\nSeed = 2414276972<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 204,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3e-05 Kg m-2 s-1<br>\nTemperature = 299.87 K<br>\nSurface Pressure = 101544.63 Pa<br>\nWind Speed = 5.25907 m s-1<br>\nSolar Radiation = 408.8 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2083</h1>\n<p>Iteration = 204<br>\nSeed = 2229443044<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 205,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3e-05 Kg m-2 s-1<br>\nTemperature = 299.87 K<br>\nSurface Pressure = 101544.63 Pa<br>\nWind Speed = 5.25907 m s-1<br>\nSolar Radiation = 408.8 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2083</h1>\n<p>Iteration = 205<br>\nSeed = 2083485138<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 206,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3e-05 Kg m-2 s-1<br>\nTemperature = 299.87 K<br>\nSurface Pressure = 101544.63 Pa<br>\nWind Speed = 5.25907 m s-1<br>\nSolar Radiation = 408.8 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2083</h1>\n<p>Iteration = 206<br>\nSeed = 1961384649<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 207,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3e-05 Kg m-2 s-1<br>\nTemperature = 301.34 K<br>\nSurface Pressure = 101708.09 Pa<br>\nWind Speed = 5.64122 m s-1<br>\nSolar Radiation = 406.16 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2084</h1>\n<p>Iteration = 207<br>\nSeed = 3250330618<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 208,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3e-05 Kg m-2 s-1<br>\nTemperature = 301.34 K<br>\nSurface Pressure = 101708.09 Pa<br>\nWind Speed = 5.64122 m s-1<br>\nSolar Radiation = 406.16 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2084</h1>\n<p>Iteration = 208<br>\nSeed = 1270194133<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 209,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3e-05 Kg m-2 s-1<br>\nTemperature = 301.34 K<br>\nSurface Pressure = 101708.09 Pa<br>\nWind Speed = 5.64122 m s-1<br>\nSolar Radiation = 406.16 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2084</h1>\n<p>Iteration = 209<br>\nSeed = 533673218<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 210,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 300.48 K<br>\nSurface Pressure = 101617.37 Pa<br>\nWind Speed = 5.48874 m s-1<br>\nSolar Radiation = 400.08 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2085</h1>\n<p>Iteration = 210<br>\nSeed = 3026312193<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 211,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 300.48 K<br>\nSurface Pressure = 101617.37 Pa<br>\nWind Speed = 5.48874 m s-1<br>\nSolar Radiation = 400.08 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2085</h1>\n<p>Iteration = 211<br>\nSeed = 2186994108<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 212,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 300.48 K<br>\nSurface Pressure = 101617.37 Pa<br>\nWind Speed = 5.48874 m s-1<br>\nSolar Radiation = 400.08 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2085</h1>\n<p>Iteration = 212<br>\nSeed = 4256905860<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 213,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.6e-05 Kg m-2 s-1<br>\nTemperature = 300.8 K<br>\nSurface Pressure = 101619.49 Pa<br>\nWind Speed = 5.6996 m s-1<br>\nSolar Radiation = 394.92 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2086</h1>\n<p>Iteration = 213<br>\nSeed = 1841810573<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 214,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.6e-05 Kg m-2 s-1<br>\nTemperature = 300.8 K<br>\nSurface Pressure = 101619.49 Pa<br>\nWind Speed = 5.6996 m s-1<br>\nSolar Radiation = 394.92 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2086</h1>\n<p>Iteration = 214<br>\nSeed = 894187315<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 215,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.6e-05 Kg m-2 s-1<br>\nTemperature = 300.8 K<br>\nSurface Pressure = 101619.49 Pa<br>\nWind Speed = 5.6996 m s-1<br>\nSolar Radiation = 394.92 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2086</h1>\n<p>Iteration = 215<br>\nSeed = 4244015972<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 216,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 5.7e-05 Kg m-2 s-1<br>\nTemperature = 301.7 K<br>\nSurface Pressure = 101700.04 Pa<br>\nWind Speed = 5.28667 m s-1<br>\nSolar Radiation = 402.54 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2087</h1>\n<p>Iteration = 216<br>\nSeed = 2084344399<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 217,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 5.7e-05 Kg m-2 s-1<br>\nTemperature = 301.7 K<br>\nSurface Pressure = 101700.04 Pa<br>\nWind Speed = 5.28667 m s-1<br>\nSolar Radiation = 402.54 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2087</h1>\n<p>Iteration = 217<br>\nSeed = 322303559<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 218,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 5.7e-05 Kg m-2 s-1<br>\nTemperature = 301.7 K<br>\nSurface Pressure = 101700.04 Pa<br>\nWind Speed = 5.28667 m s-1<br>\nSolar Radiation = 402.54 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2087</h1>\n<p>Iteration = 218<br>\nSeed = 290989843<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 219,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.6e-05 Kg m-2 s-1<br>\nTemperature = 300.95 K<br>\nSurface Pressure = 101572.55 Pa<br>\nWind Speed = 5.28111 m s-1<br>\nSolar Radiation = 407.52 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2088</h1>\n<p>Iteration = 219<br>\nSeed = 3730030852<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 220,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.6e-05 Kg m-2 s-1<br>\nTemperature = 300.95 K<br>\nSurface Pressure = 101572.55 Pa<br>\nWind Speed = 5.28111 m s-1<br>\nSolar Radiation = 407.52 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2088</h1>\n<p>Iteration = 220<br>\nSeed = 105588753<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 221,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.6e-05 Kg m-2 s-1<br>\nTemperature = 300.95 K<br>\nSurface Pressure = 101572.55 Pa<br>\nWind Speed = 5.28111 m s-1<br>\nSolar Radiation = 407.52 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2088</h1>\n<p>Iteration = 221<br>\nSeed = 1333558922<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 222,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 301.46 K<br>\nSurface Pressure = 101619.07 Pa<br>\nWind Speed = 5.23821 m s-1<br>\nSolar Radiation = 406.89 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2089</h1>\n<p>Iteration = 222<br>\nSeed = 4025522657<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 223,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 301.46 K<br>\nSurface Pressure = 101619.07 Pa<br>\nWind Speed = 5.23821 m s-1<br>\nSolar Radiation = 406.89 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2089</h1>\n<p>Iteration = 223<br>\nSeed = 1388960685<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 224,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 301.46 K<br>\nSurface Pressure = 101619.07 Pa<br>\nWind Speed = 5.23821 m s-1<br>\nSolar Radiation = 406.89 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2089</h1>\n<p>Iteration = 224<br>\nSeed = 2692845979<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 225,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.9e-05 Kg m-2 s-1<br>\nTemperature = 301.41 K<br>\nSurface Pressure = 101578.99 Pa<br>\nWind Speed = 5.43673 m s-1<br>\nSolar Radiation = 405.39 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2090</h1>\n<p>Iteration = 225<br>\nSeed = 54494162<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 226,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.9e-05 Kg m-2 s-1<br>\nTemperature = 301.41 K<br>\nSurface Pressure = 101578.99 Pa<br>\nWind Speed = 5.43673 m s-1<br>\nSolar Radiation = 405.39 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2090</h1>\n<p>Iteration = 226<br>\nSeed = 3164275250<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 227,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.9e-05 Kg m-2 s-1<br>\nTemperature = 301.41 K<br>\nSurface Pressure = 101578.99 Pa<br>\nWind Speed = 5.43673 m s-1<br>\nSolar Radiation = 405.39 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2090</h1>\n<p>Iteration = 227<br>\nSeed = 1615031514<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 228,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.1e-05 Kg m-2 s-1<br>\nTemperature = 301.34 K<br>\nSurface Pressure = 101574.2 Pa<br>\nWind Speed = 5.38027 m s-1<br>\nSolar Radiation = 411.26 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2091</h1>\n<p>Iteration = 228<br>\nSeed = 616730954<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 229,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.1e-05 Kg m-2 s-1<br>\nTemperature = 301.34 K<br>\nSurface Pressure = 101574.2 Pa<br>\nWind Speed = 5.38027 m s-1<br>\nSolar Radiation = 411.26 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2091</h1>\n<p>Iteration = 229<br>\nSeed = 243671132<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 230,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.7e-05 Kg m-2 s-1<br>\nTemperature = 301.09 K<br>\nSurface Pressure = 101638.23 Pa<br>\nWind Speed = 5.05689 m s-1<br>\nSolar Radiation = 403.8 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2092</h1>\n<p>Iteration = 230<br>\nSeed = 2164178708<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 231,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.7e-05 Kg m-2 s-1<br>\nTemperature = 301.09 K<br>\nSurface Pressure = 101638.23 Pa<br>\nWind Speed = 5.05689 m s-1<br>\nSolar Radiation = 403.8 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2092</h1>\n<p>Iteration = 231<br>\nSeed = 1479398356<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 232,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.7e-05 Kg m-2 s-1<br>\nTemperature = 301.09 K<br>\nSurface Pressure = 101638.23 Pa<br>\nWind Speed = 5.05689 m s-1<br>\nSolar Radiation = 403.8 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2092</h1>\n<p>Iteration = 232<br>\nSeed = 3535765943<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 233,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.4e-05 Kg m-2 s-1<br>\nTemperature = 300.77 K<br>\nSurface Pressure = 101503.62 Pa<br>\nWind Speed = 5.47437 m s-1<br>\nSolar Radiation = 407.1 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2093</h1>\n<p>Iteration = 233<br>\nSeed = 717448854<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 234,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.4e-05 Kg m-2 s-1<br>\nTemperature = 300.77 K<br>\nSurface Pressure = 101503.62 Pa<br>\nWind Speed = 5.47437 m s-1<br>\nSolar Radiation = 407.1 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2093</h1>\n<p>Iteration = 234<br>\nSeed = 1503114766<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 235,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.4e-05 Kg m-2 s-1<br>\nTemperature = 300.77 K<br>\nSurface Pressure = 101503.62 Pa<br>\nWind Speed = 5.47437 m s-1<br>\nSolar Radiation = 407.1 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2093</h1>\n<p>Iteration = 235<br>\nSeed = 3114101977<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 236,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.3e-05 Kg m-2 s-1<br>\nTemperature = 301.31 K<br>\nSurface Pressure = 101649.41 Pa<br>\nWind Speed = 5.45339 m s-1<br>\nSolar Radiation = 409.07 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2094</h1>\n<p>Iteration = 236<br>\nSeed = 3874060938<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 237,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.3e-05 Kg m-2 s-1<br>\nTemperature = 301.31 K<br>\nSurface Pressure = 101649.41 Pa<br>\nWind Speed = 5.45339 m s-1<br>\nSolar Radiation = 409.07 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2094</h1>\n<p>Iteration = 237<br>\nSeed = 1433358424<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 238,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 1.3e-05 Kg m-2 s-1<br>\nTemperature = 301.31 K<br>\nSurface Pressure = 101649.41 Pa<br>\nWind Speed = 5.45339 m s-1<br>\nSolar Radiation = 409.07 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2094</h1>\n<p>Iteration = 238<br>\nSeed = 1512875961<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 239,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 300.96 K<br>\nSurface Pressure = 101568.51 Pa<br>\nWind Speed = 5.35202 m s-1<br>\nSolar Radiation = 412.11 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2095</h1>\n<p>Iteration = 239<br>\nSeed = 3952435360<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 240,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 300.96 K<br>\nSurface Pressure = 101568.51 Pa<br>\nWind Speed = 5.35202 m s-1<br>\nSolar Radiation = 412.11 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2095</h1>\n<p>Iteration = 240<br>\nSeed = 4215012608<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 241,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.1e-05 Kg m-2 s-1<br>\nTemperature = 300.96 K<br>\nSurface Pressure = 101568.51 Pa<br>\nWind Speed = 5.35202 m s-1<br>\nSolar Radiation = 412.11 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2095</h1>\n<p>Iteration = 241<br>\nSeed = 2191836310<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 242,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 301.17 K<br>\nSurface Pressure = 101531.82 Pa<br>\nWind Speed = 5.23931 m s-1<br>\nSolar Radiation = 406.34 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2096</h1>\n<p>Iteration = 242<br>\nSeed = 2286243682<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 243,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 301.17 K<br>\nSurface Pressure = 101531.82 Pa<br>\nWind Speed = 5.23931 m s-1<br>\nSolar Radiation = 406.34 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2096</h1>\n<p>Iteration = 243<br>\nSeed = 3769261500<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 244,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 3.6e-05 Kg m-2 s-1<br>\nTemperature = 301.17 K<br>\nSurface Pressure = 101531.82 Pa<br>\nWind Speed = 5.23931 m s-1<br>\nSolar Radiation = 406.34 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2096</h1>\n<p>Iteration = 244<br>\nSeed = 3997304911<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 245,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.4e-05 Kg m-2 s-1<br>\nTemperature = 300.94 K<br>\nSurface Pressure = 101575.61 Pa<br>\nWind Speed = 5.79669 m s-1<br>\nSolar Radiation = 406.99 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2097</h1>\n<p>Iteration = 245<br>\nSeed = 2063622091<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 246,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.4e-05 Kg m-2 s-1<br>\nTemperature = 300.94 K<br>\nSurface Pressure = 101575.61 Pa<br>\nWind Speed = 5.79669 m s-1<br>\nSolar Radiation = 406.99 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2097</h1>\n<p>Iteration = 246<br>\nSeed = 3577600167<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 247,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.4e-05 Kg m-2 s-1<br>\nTemperature = 300.94 K<br>\nSurface Pressure = 101575.61 Pa<br>\nWind Speed = 5.79669 m s-1<br>\nSolar Radiation = 406.99 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2097</h1>\n<p>Iteration = 247<br>\nSeed = 2996328683<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 248,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.4e-05 Kg m-2 s-1<br>\nTemperature = 301.07 K<br>\nSurface Pressure = 101614.67 Pa<br>\nWind Speed = 5.05707 m s-1<br>\nSolar Radiation = 411.6 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2098</h1>\n<p>Iteration = 248<br>\nSeed = 1701481827<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 249,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.4e-05 Kg m-2 s-1<br>\nTemperature = 301.07 K<br>\nSurface Pressure = 101614.67 Pa<br>\nWind Speed = 5.05707 m s-1<br>\nSolar Radiation = 411.6 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2098</h1>\n<p>Iteration = 249<br>\nSeed = 222078151<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 250,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.4e-05 Kg m-2 s-1<br>\nTemperature = 301.07 K<br>\nSurface Pressure = 101614.67 Pa<br>\nWind Speed = 5.05707 m s-1<br>\nSolar Radiation = 411.6 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2098</h1>\n<p>Iteration = 250<br>\nSeed = 3213407591<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 251,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2e-05 Kg m-2 s-1<br>\nTemperature = 301.61 K<br>\nSurface Pressure = 101544.84 Pa<br>\nWind Speed = 5.35595 m s-1<br>\nSolar Radiation = 405.92 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2099</h1>\n<p>Iteration = 251<br>\nSeed = 1805575864<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 252,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2e-05 Kg m-2 s-1<br>\nTemperature = 301.61 K<br>\nSurface Pressure = 101544.84 Pa<br>\nWind Speed = 5.35595 m s-1<br>\nSolar Radiation = 405.92 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2099</h1>\n<p>Iteration = 252<br>\nSeed = 1130824240<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 253,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2e-05 Kg m-2 s-1<br>\nTemperature = 301.61 K<br>\nSurface Pressure = 101544.84 Pa<br>\nWind Speed = 5.35595 m s-1<br>\nSolar Radiation = 405.92 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2099</h1>\n<p>Iteration = 253<br>\nSeed = 1084439719<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  },
+  {
+    "index": 254,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 301.82 K<br>\nSurface Pressure = 101587.07 Pa<br>\nWind Speed = 5.70565 m s-1<br>\nSolar Radiation = 417.54 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2100</h1>\n<p>Iteration = 254<br>\nSeed = 4059614245<br>\nModel = stable-diffusion-xl-beta-v2-2-2<br>\nimg_str = 0.8<br>\ncfg_scale = 3</p>\n</div>"
+  },
+  {
+    "index": 255,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 301.82 K<br>\nSurface Pressure = 101587.07 Pa<br>\nWind Speed = 5.70565 m s-1<br>\nSolar Radiation = 417.54 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2100</h1>\n<p>Iteration = 255<br>\nSeed = 3171585857<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 6</p>\n</div>"
+  },
+  {
+    "index": 256,
+    "text": "<div id=\"left-container\">\n<h2>RIO DE JANEIRO - GUANABARA BAY</h1>\n<p>Precipitation Rate = 2.2e-05 Kg m-2 s-1<br>\nTemperature = 301.82 K<br>\nSurface Pressure = 101587.07 Pa<br>\nWind Speed = 5.70565 m s-1<br>\nSolar Radiation = 417.54 W m-2</p>\n</div>\n<div id=\"right-container\">\n<h1>2100</h1>\n<p>Iteration = 256<br>\nSeed = 3169836034<br>\nModel = stable-diffusion-v1-5<br>\nimg_str = 0.7<br>\ncfg_scale = 9</p>\n</div>"
+  }
+]
