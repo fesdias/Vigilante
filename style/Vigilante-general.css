@@ -24,10 +24,10 @@ header {
   
 #HeaderH1 {
     color: rgba(255, 255, 255, 0.7);
-    font-family: Fino;
-    font-size: 25.89px;
-    font-style: normal;
+    font-family: "fino", serif;
     font-weight: 400;
+    font-style: normal;
+    font-size: 25.89px;
     line-height: normal;
     text-align: center;
     padding-left: 41px;
