@@ -8,7 +8,7 @@ const frameCount = 256;
 // SETTINGS - IMAGE
 // Function to generate the path for the image of a specific frame index
 const currentFrame = index => (
-    `../assets/photos/2023-08-v10_${index.toString().padStart(4, '0')}.png`
+    `../assets/photos/2023-08-v10_${index.toString().padStart(4, '0')}.webp`
 );
 
 // Function to preload images into the browser cache
@@ -35,12 +35,14 @@ const updateImage = frameIndex => {
 
 
 // SETTINGS - TEXT OVERLAY
-const jsonUrl = 'assets/vigilante_obras-2023-08-v10-data.json';
+let jsonUrl = window.innerWidth < 700
+  ? 'assets/vigilante_obras-2023-08-v10-data_en_mobile.json'
+  : 'assets/vigilante_obras-2023-08-v10-data.json';
+
 let textData = [];
 
 // Function to update the overlay text based on the frame index
 const updateText = frameIndex => {
-
     const textEntry = textData.find(entry => entry.index === frameIndex);
     const textValue = textEntry ? textEntry.text : '';
     const formattedText = textValue.replace(/\n/g, '<br>');
@@ -71,11 +73,32 @@ img.onload = function () {
 // Function to draw the image on the canvas, maintaining aspect ratio
 const drawImageToFit = () => {
     context.clearRect(0, 0, canvas.width, canvas.height);
+
     const aspectRatio = img.width / img.height;
-    const scaledHeight = canvas.width / aspectRatio;
+
+    // Calculate scaled dimensions based on the aspect ratio
+    let scaledWidth = window.innerWidth;
+    let scaledHeight = window.innerWidth / aspectRatio;
+
+    // If the calculated height is less than the screen height, use screen height
+    if (scaledHeight < window.innerHeight) {
+        scaledHeight = canvas.height;
+        scaledWidth = canvas.height * aspectRatio;
+    } else {
+        scaledHeight = canvas.width / aspectRatio;
+        scaledWidth = canvas.width;
+    }
+
+    // Center the image both vertically and horizontally on the canvas
+    const offsetX = (canvas.width - scaledWidth) / 2;
     const offsetY = (canvas.height - scaledHeight) / 2;
-    context.drawImage(img, 0, offsetY, canvas.width, scaledHeight);
+
+    context.drawImage(img, offsetX, offsetY, scaledWidth, scaledHeight);
 };
+
+// Event listener for window resize to redraw the image on the canvas
+window.addEventListener('resize', drawImageToFit);
+
 
 // Function to update the frame index based on the scroll position
 const updateFrameIndex = () => {

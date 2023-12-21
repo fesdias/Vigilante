@@ -1,0 +1,285 @@
+html, body {
+    margin: 0 0 4.618rem 0;
+    padding: 0;
+    font-size: 16px;
+    background-color: #201F1E;
+}
+
+h1, h2, h3, p {
+    color: #fff;
+    font-family: Menlo;
+}
+
+h1 {
+    font-size: 4.236rem;
+    line-height: 4rem;
+}
+
+h2 {
+    font-size: 2.618rem;
+}
+
+h3 {
+    font-size: 1.618rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+
+/* SECTION: COVER */
+#cover {
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    height: 650px;
+    width: 100%;
+
+    background-image: url('../assets/about_us/cover.webp');
+    background-size: cover;
+    background-position: center;
+    z-index: 100;
+}
+
+#cover-content {
+    background-color: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding: 0 10%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    text-align: left;
+}
+
+#cover-content h1,
+#cover-content h3 {
+  width: 100%; 
+  max-width: 450px;
+  margin: 0 0 0.618rem 0;
+}
+
+
+/* SECTION: POSTERS */
+#posters  {
+    position: absolute;
+    top: 700px;
+
+    left: 66%;
+    width: 33%;
+    min-width: 400px;
+    overflow: hidden;
+}
+
+#posters  img {
+    width: 100%;
+    height: auto;
+    padding: 20px 0;
+    z-index: 1;
+}
+
+
+/* SECTION: SUMMARY */
+#summary {
+    display: flex;
+    flex-direction: column;
+    padding: 4.618rem 10%;
+    z-index: 100;
+}
+
+#summary_text {
+    display: flex;
+    justify-content: left;
+    z-index: 100;
+}
+  
+#summary p {
+    max-width: 480px;
+    z-index: 100;
+}
+  
+#abstract {
+    font-size: 0.618rem;
+    font-weight: 400;
+    color: #A2A2A2;
+    font-style: italic;
+
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 4.681rem;
+    align-self: flex-end;
+    z-index: 100;
+}
+
+#summary iframe {
+    max-width: 480px;
+    margin-top: 4.681rem;
+    z-index: 100;
+}
+
+
+/* SECTION: ROLE OF ART */
+#role_art {
+    padding: 4.618rem 10%;
+    max-width: 975px;
+    z-index: 100;
+}
+
+#title {
+    display: flex;
+    justify-content: left;
+    margin-bottom: 2.618rem;
+    text-shadow: 0 0 20px 10px #201F1E;
+    z-index: 100;
+}
+
+#title h2 {
+    text-align: right;
+    line-height: 2.618rem;
+    width: 250px;
+    flex-shrink: 0;
+    margin: 0;
+    top: 0;
+    z-index: 100;
+}
+
+#title p {
+    margin-left: 30px;
+    margin-top: 0;
+    top: 0;
+    width: 450px;
+    z-index: 100;
+}
+
+.HighlightButton-Container {
+    max-width: 900px;
+    z-index: 100;
+}
+
+
+/* SECTION: NEXT STEPS */
+#next_steps {
+    padding: 0 10%;
+    margin: 0;
+    z-index: 100;
+}
+
+#next_steps h2 {
+    width: 130px;
+    z-index: 100;
+}
+
+#next_steps p {
+    width: 470px;
+    z-index: 100;
+}
+
+@media screen and (max-width: 960px) {
+
+    /* SECTION: SUMMARY */
+    #summary {
+        padding: 4.618rem 5%;
+        z-index: 100;
+    }
+
+    #summary_text {
+        flex-direction: column;
+        z-index: 100;
+    }
+    
+    #summary p {
+        max-width: auto;
+        z-index: 100;
+    }
+    
+    #abstract {
+        width: auto;
+        margin-left: 30%;
+        margin-top: 2.681rem;
+        z-index: 100;
+    }
+
+    #summary iframe {
+        width: 100%;
+        z-index: 100;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+
+    html, body {
+        font-size: 12px;
+    }
+
+
+    /* SECTION: COVER */
+    #cover-content {
+        padding: 0 5%;
+    }
+
+    #cover {
+        height: 600px;
+        background-position: 70%;
+        z-index: 100;
+    }
+
+    #cover-content h1,
+    #cover-content h3 {
+        max-width: 300px;
+    }
+
+
+    /* SECTION: POSTERS */
+    #posters  {
+        top: 1650px;
+        left: 0;
+        width: 100%;
+        min-width: auto;
+    }
+    
+    #posters img {
+        width: 100%;
+        height: auto;
+        z-index: 1;
+    }
+
+    #poster_3,
+    #poster_2 {
+        display: none;
+    }
+
+
+    /* SECTION: ROLE OF ART */
+    #role_art {
+        padding: 4.618rem 10% 11.089rem 10%;
+        max-width: 975px;
+        z-index: 100;
+    }
+
+    #title {
+        flex-direction: column;
+        margin-bottom: 2.618rem;
+        z-index: 100;
+    }
+
+    #title h2 {
+        text-align: left;
+        width: 200px;
+        z-index: 100;
+    }
+
+    #title p {
+        margin-left: 0;
+        margin-top: 1rem;
+        margin-bottom: 4.618rem;
+        width: auto;
+        z-index: 100;
+    }
+}

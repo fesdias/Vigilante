@@ -61,28 +61,6 @@ img {
     margin-bottom: 500px;
 }
 
-.HighlightButton-Container {
-    display: flex;
-    flex-direction: column; 
-    align-items: left;
-
-    max-width: 1080px;
-    height: auto;
-    margin-bottom: 20px;
-    
-
-    border-radius: 10px;
-    background: rgba(189, 189, 189, 0.20);
-    backdrop-filter: blur(10px);
-    text-align: left;
-}
-
-.HighlightButton-content {
-    padding-top: 1rem;
-    padding-bottom: 1.618rem;
-    padding-left: 2.618rem;
-}
-
 .HighlightButton-content h1 {
     color: #FFF;
     font-family: Menlo;
@@ -105,12 +83,21 @@ img {
     text-decoration-line: underline;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 842px) {
     html {
-      font-size: 7px;
+      font-size: 6px;
     }
 
     .content {
+        margin-bottom: 300px;
+    }
+
+    .quote {
+        text-align: left;
+    }
+
+    #first_element {
+        margin-top: 0px;
         margin-bottom: 300px;
     }
 }
