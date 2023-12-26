@@ -6,14 +6,14 @@
     <link rel="stylesheet" href="style/Vigilante-general.css">
     <link rel="stylesheet" href="style/Vigilante-gallery.css">
     <link rel="stylesheet" href="https://use.typekit.net/mri7yfx.css">
-    <link rel="icon" type="image/x-icon" href="assets/Vigilante.ico">
-    <title>VIGILANTE - VISUALIZATIONS</title>
+    <link rel="icon" type="image/x-icon" href="assets/general/Vigilante.ico">
+    <title>VIGILANTE | Gallery</title>
 </head>
 <body>
     <header>
-        <a id="HeaderH2" href="Vigilante-obras.html">ART</a>
-        <a id="HeaderH1" href="index.html">VIGILANTE</a>
-        <a id="HeaderH2" href="Vigilante-about_us.html">PRESS</a>
+        <a id="HeaderH2" href="Vigilante-gallery.html">ART</a>
+        <a id="HeaderH1" href="index.html" >VIGILANTE</a>
+        <a id="HeaderH2" href="Vigilante-about_us.html">UNCOVER</a>
     </header>
 
     <div id="gallery">
@@ -27,26 +27,43 @@
 
     <div id="experiments">
         <div class="experiment-container" id="experiment_1">
-            <a href="Vigilante-obras.html">
-                <img src="assets/gallery/gallery-test.png">
-                <h6>EXPERIMENT I</h6>
-                <p>Stable Diffusion<br>Image-to-Image<br>Multiple frames transition</p>
-            </a>
+            <div class="animation-video">
+                <a href="vigilante_01_033.html">
+                    <video autoplay loop muted poster="" playsinline webkit-playsinline preload="metadata" class="timelapse">
+                    <source src="/assets/gallery/vigilante_01_033/animation/vigilante_01_033.webm" type="video/webm">
+                    </video>
+                </a>
+            </div>
+            <h6>EXPERIMENT I</h6>
+            <p>Immerse yourself in a futuristic vision of Rio de Janeiro until the year 2100, created through satellite data and artificial intelligence.</p>
         </div>
 
         <div class="experiment-container" id="experiment_2">
-            <img src="assets/gallery/gallery-test.png">
+            <div class="animation-video">
+                <a href="vigilante_01_002.html">
+                    <video autoplay loop muted poster="" playsinline webkit-playsinline preload="metadata" class="timelapse">
+                    <source src="/assets/gallery/vigilante_01_002/animation/vigilante_01_002.webm" type="video/webm">
+                    </video>
+                </a>
+            </div>
             <h6>EXPERIMENT II</h6>
-            <p>Stable Diffusion<br>Image-to-Image<br>Multiple frames transition</p>
+            <p>Observe the hallucinations of generative models that generate distorted representations of reality.</p>
         </div>
 
         <div class="experiment-container" id="experiment_3">
-            <img src="assets/gallery/gallery-test.png">
+            <div class="animation-video">
+                <a href="vigilante_01_004.html">
+                    <video autoplay loop muted poster="" playsinline webkit-playsinline preload="metadata" class="timelapse">
+                    <source src="/assets/gallery/vigilante_01_004/animation/vigilante_01_004.webm" type="video/webm">
+                    </video>
+                </a>
+            </div>
             <h6>EXPERIMENT III</h6>
-            <p>Stable Diffusion<br>Image-to-Image<br>Multiple frames transition</p>
+            <p>Explore the resulting noise when current models use previously generated content by AI as input.</p>
         </div>
     </div>
 
+    <script src="script/Vigilante-gallery.js"></script>
 
 </body>
 </html>

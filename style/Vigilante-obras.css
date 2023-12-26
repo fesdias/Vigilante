@@ -9,6 +9,30 @@ body {
   margin: 0;
 }
 
+/* SECTION: ALERT_MESSAGE */
+#alert_message {
+  position: fixed;
+  z-index: 10;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  color: #FFF;
+  font-family: Menlo;
+  font-weight: 700;
+  font-size: 1rem;
+  text-align: center;
+
+  animation: fadeOut 2s normal 2s forwards;
+}
+
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to   { opacity: 0; display: none; }
+}
+
+
+/* SECTION: CANVAS */
 canvas {
   position: fixed;
   left: 0;
@@ -19,6 +43,8 @@ canvas {
   object-position: center;
 }
 
+
+/* SECTION: OVERLAY TEXT (DATA) */
 #overlayText {
   position: fixed;
   width: 100%;
@@ -73,11 +99,16 @@ canvas {
   padding-right: 10px;
 }
 
+
+
+/* MOBILE VERSION */
 @media screen and (max-width: 700px) {
   html {
     font-size: 14px;
   }
 
+
+  /* SECTION: CANVAS */
   canvas {
     position: fixed;
     width: 100%;
@@ -85,6 +116,8 @@ canvas {
     overflow-x: visible;
   }
 
+
+  /* SECTION: OVERLAY TEXT (DATA) */
   #overlayText {
     bottom: 0;
   }

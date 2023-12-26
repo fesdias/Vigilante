@@ -47,6 +47,6 @@ def batch_compress_and_convert_to_webp(input_folder, output_folder, quality=85):
             compress_and_convert_to_webp(input_path, output_path, quality)
 
 # Example usage:
-input_folder = "/Users/felipedias/Downloads/Vigilante/Site/Code/assets/photos/png"
-output_folder = "/Users/felipedias/Downloads/Vigilante/Site/Code/assets/photos/webp"
+input_folder = "/Users/felipedias/Downloads/Vigilante/Site/Code/assets/gallery/vigilante_01_004/png"
+output_folder = "/Users/felipedias/Downloads/Vigilante/Site/Code/assets/gallery/vigilante_01_004/webp"
 batch_compress_and_convert_to_webp(input_folder, output_folder, quality=85)

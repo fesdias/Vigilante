@@ -1,5 +1,6 @@
 html, body {
-    background-color: #201F1E;
+    /*background-color: #201F1E; */
+    background-color: black;
     font-size: 16px;
 }
 
@@ -31,7 +32,7 @@ html, body {
     width: 216px;
     height: 216px;
     border-radius: 50%;
-    background: url('/assets/gallery/gallery-rio_de_janeiro.webp') center/cover;
+    background: url('/assets/gallery/page/gallery-rio_de_janeiro.webp') center/cover;
 }
   
 .circle {
@@ -69,6 +70,29 @@ html, body {
     align-items: flex-start;
 }
 
+.experiment-container {
+    margin: 0 1.618rem;
+}
+
+/* videos */
+.animation-video {
+    width: 230px;
+    overflow: hidden;
+    padding: 1.618rem 0; 
+}
+
+.animation-video video {
+    width: 100%;
+    height: auto;
+    filter: grayscale(100%);
+    transition: filter 0.3s ease;
+}
+
+.animation-video video:hover {
+    filter: grayscale(0%);
+}
+
+/* images */
 .experiment-container img {
     max-width: 230px;
     padding: 1.618rem 0;
@@ -78,11 +102,8 @@ html, body {
 
 .experiment-container img:hover {
     filter: grayscale(0%);
-  }
-
-.experiment-container {
-    margin: 0 1.618rem;
 }
+
 
 .experiment-container h6,
 .experiment-container p {
@@ -97,6 +118,7 @@ html, body {
 
 .experiment-container p {
     font-size: 1rem;
+    max-width: 250px;
 }
 
 @media screen and (max-width: 580px) {
@@ -136,5 +158,4 @@ html, body {
     .experiment-container {
         margin: 1.618rem 0;
     }
-
 }
